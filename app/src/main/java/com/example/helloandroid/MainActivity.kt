@@ -1,5 +1,5 @@
 package com.example.helloandroid
-
+//comentário
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 //teste 1
